@@ -1,3 +1,6 @@
+This demo was created with the aid of the Angular course Getting Started with Angular on PluralSight.
+I have made some personal edits for extra practice and I plan to replace everything from the tutorial with my own spin.
+
 # Apm
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.3.
